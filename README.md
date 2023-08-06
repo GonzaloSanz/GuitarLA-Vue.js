@@ -1,1 +1,1 @@
-Proyecto realizado con Vue.js, Vite y CSS3
+Proyecto realizado con Vue.js, Vite, CSS3 y LocalStorage
